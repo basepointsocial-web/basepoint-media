@@ -1,8 +1,20 @@
-# Mixkit License (free, commercial use OK) - calm beach clips
-beach-sunset-44498-1080.mp4 https://assets.mixkit.co/videos/44498/44498-1080.mp4
-beach-sunset-44498-720.mp4 https://assets.mixkit.co/videos/44498/44498-720.mp4
-beach-sunset-44496-1080.mp4 https://assets.mixkit.co/videos/44496/44496-1080.mp4
-beach-waves-5016-1080.mp4 https://assets.mixkit.co/videos/5016/5016-1080.mp4
-beach-waves-5016-720.mp4 https://assets.mixkit.co/videos/5016/5016-720.mp4
-# BigSoundBank #0266, CC0 public domain - sea waves
-sea-waves-0266.mp3 https://bigsoundbank.com/UPLOAD/mp3/0266.mp3
+# Round 2: previews (Mixkit License) + sound pages to find mp3 links
+prev-808.mp4 https://assets.mixkit.co/videos/808/808-360.mp4
+prev-43935.mp4 https://assets.mixkit.co/videos/43935/43935-360.mp4
+prev-28827.mp4 https://assets.mixkit.co/videos/28827/28827-360.mp4
+prev-45271.mp4 https://assets.mixkit.co/videos/45271/45271-360.mp4
+prev-14911.mp4 https://assets.mixkit.co/videos/14911/14911-360.mp4
+prev-25127.mp4 https://assets.mixkit.co/videos/25127/25127-360.mp4
+prev-2846.mp4 https://assets.mixkit.co/videos/2846/2846-360.mp4
+prev-18308.mp4 https://assets.mixkit.co/videos/18308/18308-360.mp4
+prev-34841.mp4 https://assets.mixkit.co/videos/34841/34841-360.mp4
+prev-9598.mp4 https://assets.mixkit.co/videos/9598/9598-360.mp4
+prev-47818.mp4 https://assets.mixkit.co/videos/47818/47818-360.mp4
+prev-51633.mp4 https://assets.mixkit.co/videos/51633/51633-360.mp4
+prev-30257.mp4 https://assets.mixkit.co/videos/30257/30257-360.mp4
+prev-47311.mp4 https://assets.mixkit.co/videos/47311/47311-360.mp4
+sfx-rain.html https://mixkit.co/free-sound-effects/rain/
+sfx-fire.html https://mixkit.co/free-sound-effects/fire/
+sfx-birds.html https://mixkit.co/free-sound-effects/birds/
+sfx-water.html https://mixkit.co/free-sound-effects/water/
+sfx-forest.html https://mixkit.co/free-sound-effects/forest/
