@@ -1,0 +1,8 @@
+# Mixkit License (free, commercial use OK) - calm beach clips
+beach-sunset-44498-1080.mp4 https://assets.mixkit.co/videos/44498/44498-1080.mp4
+beach-sunset-44498-720.mp4 https://assets.mixkit.co/videos/44498/44498-720.mp4
+beach-sunset-44496-1080.mp4 https://assets.mixkit.co/videos/44496/44496-1080.mp4
+beach-waves-5016-1080.mp4 https://assets.mixkit.co/videos/5016/5016-1080.mp4
+beach-waves-5016-720.mp4 https://assets.mixkit.co/videos/5016/5016-720.mp4
+# BigSoundBank #0266, CC0 public domain - sea waves
+sea-waves-0266.mp3 https://bigsoundbank.com/UPLOAD/mp3/0266.mp3

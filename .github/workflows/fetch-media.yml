@@ -1,0 +1,29 @@
+name: Fetch stock media
+# Added with the owner's permission (Oct 13, 2026). Downloads only the licensed stock files listed in
+# jobs/fetch.txt (one "name url" per line) into stock/ and commits them. Delete this file to turn it off.
+on:
+  push:
+    paths: ["jobs/fetch.txt"]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download
+        run: |
+          mkdir -p stock
+          while read -r name url; do
+            [ -z "$name" ] && continue
+            case "$name" in \#*) continue;; esac
+            curl -fsSL -A "Mozilla/5.0" -o "stock/$name" "$url" && echo "ok $name" || echo "FAILED $name $url"
+          done < jobs/fetch.txt
+          ls -la stock
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add stock
+          git commit -m "Fetched stock media" || echo "nothing new"
+          git push
