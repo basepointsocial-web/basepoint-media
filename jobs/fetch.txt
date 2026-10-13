@@ -1,21 +1,10 @@
-# Round 3: chosen clips (Mixkit License) and sounds (Mixkit SFX license)
-clip-808-1080.mp4 https://assets.mixkit.co/videos/808/808-1080.mp4
-clip-808-720.mp4 https://assets.mixkit.co/videos/808/808-720.mp4
-clip-45271-1080.mp4 https://assets.mixkit.co/videos/45271/45271-1080.mp4
-clip-45271-720.mp4 https://assets.mixkit.co/videos/45271/45271-720.mp4
-clip-2846-1080.mp4 https://assets.mixkit.co/videos/2846/2846-1080.mp4
-clip-2846-720.mp4 https://assets.mixkit.co/videos/2846/2846-720.mp4
-clip-34841-1080.mp4 https://assets.mixkit.co/videos/34841/34841-1080.mp4
-clip-34841-720.mp4 https://assets.mixkit.co/videos/34841/34841-720.mp4
-clip-47818-1080.mp4 https://assets.mixkit.co/videos/47818/47818-1080.mp4
-clip-47818-720.mp4 https://assets.mixkit.co/videos/47818/47818-720.mp4
-sfx-2464.mp3 https://assets.mixkit.co/active_storage/sfx/2464/2464-preview.mp3
-sfx-2472.mp3 https://assets.mixkit.co/active_storage/sfx/2472/2472-preview.mp3
-sfx-1231.mp3 https://assets.mixkit.co/active_storage/sfx/1231/1231-preview.mp3
-sfx-1222.mp3 https://assets.mixkit.co/active_storage/sfx/1222/1222-preview.mp3
-sfx-2474.mp3 https://assets.mixkit.co/active_storage/sfx/2474/2474-preview.mp3
-sfx-1253.mp3 https://assets.mixkit.co/active_storage/sfx/1253/1253-preview.mp3
-sfx-2458.mp3 https://assets.mixkit.co/active_storage/sfx/2458/2458-preview.mp3
-sfx-61.mp3 https://assets.mixkit.co/active_storage/sfx/61/61-preview.mp3
-sfx-1330.mp3 https://assets.mixkit.co/active_storage/sfx/1330/1330-preview.mp3
-sfx-1736.mp3 https://assets.mixkit.co/active_storage/sfx/1736/1736-preview.mp3
+# Round 4: higher-res variants
+clip-45271-2160.mp4 https://assets.mixkit.co/videos/45271/45271-2160.mp4
+clip-45271-1440.mp4 https://assets.mixkit.co/videos/45271/45271-1440.mp4
+clip-45271-4k.mp4 https://assets.mixkit.co/videos/45271/45271-4k.mp4
+clip-34841-2160.mp4 https://assets.mixkit.co/videos/34841/34841-2160.mp4
+clip-34841-1440.mp4 https://assets.mixkit.co/videos/34841/34841-1440.mp4
+clip-34841-4k.mp4 https://assets.mixkit.co/videos/34841/34841-4k.mp4
+clip-47818-2160.mp4 https://assets.mixkit.co/videos/47818/47818-2160.mp4
+clip-47818-1440.mp4 https://assets.mixkit.co/videos/47818/47818-1440.mp4
+clip-47818-4k.mp4 https://assets.mixkit.co/videos/47818/47818-4k.mp4
