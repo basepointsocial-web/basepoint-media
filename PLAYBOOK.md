@@ -15,7 +15,7 @@ Read this before making any Basepoint post. The calendar event for each day (Goo
 ## Content rules
 - Brand-only: no Basepoint founder face. Show hands, desk, screen recordings, voiceover; feature client owners' faces only with consent.
 - Original and Pittsburgh-specific in every post: real business names (public info), neighborhoods, local dates. No generic stock-only posts (the "More Time For This" series ended Oct 18).
-- Real businesses: public info only, praise first, tag them, never call out a struggling business. Prefer strong pages NOT on the lead sheet unless the owner agreed.
+- Real businesses: public info only; don't reuse their photos/videos without permission (describe, tag, and recreate the idea as Basepoint graphics); praise first, tag them, never call out a struggling business. Prefer strong pages NOT on the lead sheet unless the owner agreed.
 - Style: navy #1F3B73, orange #EF7B3F / #D9591A, white; IBM Plex Mono (headlines) + IBM Plex Sans (body); faint grid; crosshair logo.
 - Reels: 30-45 s, hook in the first 2 s, on-screen text. Voice = Kokoro "Nicole warm-bright" mix (default in `tools/reel.py`). Label `isAiGenerated: true` only when the AI voice is used.
 - Carousels: 6-8 slides, 1080x1350 PNG; last slide "Comment SAMPLE - free post in 48 hours".
