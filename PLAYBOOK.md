@@ -22,6 +22,15 @@ Read this before making any Basepoint post. The calendar event for each day (Goo
 - Captions: "we" voice; Pittsburgh location tag and neighborhood named in the text; max 5 hashtags; end with: Comment or DM "SAMPLE" and we'll make one post for your business, free, within 48 hours.
 - Never show prices on posts (prices stay in DMs/calls).
 
+## Owner approval for posts that name a real business (overrides the calendar prompt)
+Any post that names or tags a real business (Mon Pittsburgh Fix-It, Thu spotlights, Small Business Saturday, any Collab) is NOT scheduled automatically. Make it, then send the owner the video/slides + caption + the facts used and their sources, and WAIT for an explicit OK before uploading to `posts/` or scheduling in Metricool. Before sending, check every line against this list:
+- Praise only. No "mistakes", "fixes", ratings below 8/10, or comparisons that make anyone look worse.
+- Every claim is verifiable from their own public website, Instagram, or reviews; give the source. No guesses about their page, numbers that will go stale, or "only/best" claims we can't prove.
+- The "tip" is general ("any salon can..."), never aimed at the featured business.
+- No reuse of their photos, logo, or videos; recreate as Basepoint graphics.
+- Confirm their Instagram handle before tagging.
+- Recommend the owner DM the business before posting ("we'd love to feature you"); if they say no, swap in another business.
+
 ## Stories (do NOT schedule in Metricool: the free plan allows only 20 scheduled posts a month)
 Make the Story image and tell the owner what sticker to add in the Instagram app:
 Mon poll "Do you post on Instagram every week?" · Tue reshare carousel + question sticker "What's your biggest Instagram headache?" · Wed reshare Reel + "Reply SAMPLE" · Thu "DM SAMPLE for a free post in 48h" + link sticker · Fri behind-the-scenes or a small win.
