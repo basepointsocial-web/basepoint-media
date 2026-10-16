@@ -5,17 +5,17 @@ Read this before making any Basepoint post. The calendar event for each day (Goo
 ## Weekly schedule (from Oct 19, 2026)
 | Day | Time ET | Format | Pillar |
 |---|---|---|---|
-| Mon | 11:00 AM | Reel 30-45 s | Pittsburgh Fix-It: praise-first look at a strong local page |
+| Mon | 11:00 AM | Reel 30-45 s | Quick Fix: general advice for salons/gyms/spas, shown on made-up 'concept' examples |
 | Tue | 12:00 PM | Carousel 6-8 slides | Owner playbook: save-worthy education |
-| Wed | 6:00 PM | Reel | Before/after proof: real sample recipient as Collab, else a labeled "concept" |
-| Thu | 11:00 AM | Carousel / Collab | Local spotlight or client results |
+| Wed | 6:00 PM | Reel | Before/after proof: a labeled "concept" business (a real one only with written permission) |
+| Thu | 11:00 AM | Carousel | Local tips / results: Pittsburgh-flavored general tips; client results only with written permission |
 | Fri | 10:00 AM | Reel or carousel (optional, skip in heavy weeks) | Behind the build: faceless, hands/desk/screen |
 | Sat-Sun | none | none | Batch next week (exception: Small Business Saturday) |
 
 ## Content rules
 - Brand-only: no Basepoint founder face. Show hands, desk, screen recordings, voiceover; feature client owners' faces only with consent.
-- Original and Pittsburgh-specific in every post: real business names (public info), neighborhoods, local dates. No generic stock-only posts (the "More Time For This" series ended Oct 18).
-- Real businesses: public info only; don't reuse their photos/videos without permission (describe, tag, and recreate the idea as Basepoint graphics); praise first, tag them, never call out a struggling business. Prefer strong pages NOT on the lead sheet unless the owner agreed.
+- NO REAL BUSINESSES WITHOUT PERMISSION (owner's rule, Oct 16): never name, tag, screenshot, describe or use info from a real business unless that business has given written permission. Use general advice and made-up examples clearly labeled "concept".
+- Keep it Pittsburgh-flavored: neighborhoods, local seasons and dates are fine. No generic stock-only posts (the "More Time For This" series ended Oct 18).
 - Style: navy #1F3B73, orange #EF7B3F / #D9591A, white; IBM Plex Mono (headlines) + IBM Plex Sans (body); faint grid; crosshair logo.
 - Reels: 30-45 s, hook in the first 2 s, on-screen text. Voice = Kokoro "Nicole warm-bright" mix (default in `tools/reel.py`). Label `isAiGenerated: true` only when the AI voice is used.
 - Carousels: 6-8 slides, 1080x1350 PNG; last slide "Comment SAMPLE - free post in 48 hours".
@@ -23,7 +23,7 @@ Read this before making any Basepoint post. The calendar event for each day (Goo
 - Never show prices on posts (prices stay in DMs/calls).
 
 ## Owner approval for posts that name a real business (overrides the calendar prompt)
-Any post that names or tags a real business (Mon Pittsburgh Fix-It, Thu spotlights, Small Business Saturday, any Collab) is NOT scheduled automatically. Make it, then send the owner the video/slides + caption + the facts used and their sources, and WAIT for an explicit OK before uploading to `posts/` or scheduling in Metricool. Before sending, check every line against this list:
+By default no post names a real business. If one ever does (a client or sample recipient who gave written permission, or a Collab), it is NOT scheduled automatically. Make it, then send the owner the video/slides + caption + the facts used and their sources, and WAIT for an explicit OK before uploading to `posts/` or scheduling in Metricool. Before sending, check every line against this list:
 - Praise only. No "mistakes", "fixes", ratings below 8/10, or comparisons that make anyone look worse.
 - Every claim is verifiable from their own public website, Instagram, or reviews; give the source. No guesses about their page, numbers that will go stale, or "only/best" claims we can't prove.
 - The "tip" is general ("any salon can..."), never aimed at the featured business.
